@@ -1,5 +1,4 @@
-# Ignore CSV, PNG, TEXT files
-*.csv
+# Ignore PNG, TEXT files
 *.png
 *.txt
 
