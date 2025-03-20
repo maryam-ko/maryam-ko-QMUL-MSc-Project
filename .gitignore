@@ -11,3 +11,4 @@ job_outputs/
 # Ignore GTF files
 *.gtf
 .DS_Store
+.DS_Store
